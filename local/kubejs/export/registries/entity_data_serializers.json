@@ -1,0 +1,8 @@
+{
+	"mekanism:uuid": "net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000019055a7e408",
+	"mekanism:security": "net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000019055a7e408",
+	"ars_nouveau:vec3": "net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000019055a7e408",
+	"mekanism:robit_skin": "net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000019055a7e408",
+	"nuggets:resource_location": "net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000019055a7e408",
+	"nuggets:vec3": "net.minecraft.network.syncher.EntityDataSerializer$$Lambda/0x0000019055a7e408"
+}

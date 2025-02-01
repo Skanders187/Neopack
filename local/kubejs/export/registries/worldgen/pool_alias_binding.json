@@ -1,0 +1,5 @@
+{
+	"minecraft:random": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"minecraft:random_group": "com.mojang.serialization.codecs.RecordCodecBuilder$2",
+	"minecraft:direct": "com.mojang.serialization.codecs.RecordCodecBuilder$2"
+}

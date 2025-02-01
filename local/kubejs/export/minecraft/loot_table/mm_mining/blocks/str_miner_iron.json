@@ -1,0 +1,4 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "mm_mining:blocks/str_miner_iron"
+}

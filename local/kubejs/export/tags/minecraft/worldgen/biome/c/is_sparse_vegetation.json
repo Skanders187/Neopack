@@ -1,0 +1,7 @@
+[
+	"#c:is_sparse_vegetation/end?",
+	"#c:is_sparse_vegetation/nether?",
+	"#c:is_sparse_vegetation/overworld",
+	"#forge:is_sparse?",
+	"#forge:is_sparse_vegetation?"
+]

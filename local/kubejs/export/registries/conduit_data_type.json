@@ -1,0 +1,7 @@
+{
+	"enderio:me": "com.enderio.conduits.api.ConduitDataType",
+	"enderio:item": "com.enderio.conduits.api.ConduitDataType",
+	"enderio:redstone": "com.enderio.conduits.api.ConduitDataType",
+	"enderio:fluid": "com.enderio.conduits.api.ConduitDataType",
+	"enderio:chemical": "com.enderio.conduits.api.ConduitDataType"
+}

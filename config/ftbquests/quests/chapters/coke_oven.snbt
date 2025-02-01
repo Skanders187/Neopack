@@ -1,0 +1,315 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "coke_oven"
+	group: "6553A5E31000D0D3"
+	id: "389047DECAF107BD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "608A5F00AC8F8D9B"
+			tasks: [{
+				count: 8L
+				id: "3867D670990E31F7"
+				item: { count: 1, id: "immersiveengineering:alloybrick" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -5.5d
+		}
+		{
+			icon: {
+				id: "immersiveengineering:metal_press"
+			}
+			id: "714EAE0AA92B9D78"
+			tasks: [
+				{
+					id: "5F04D9D7C549B583"
+					item: { count: 1, id: "immersiveengineering:heavy_engineering" }
+					type: "item"
+				}
+				{
+					id: "1F92912DDC3175A9"
+					item: { count: 1, id: "immersiveengineering:rs_engineering" }
+					type: "item"
+				}
+				{
+					id: "068E285F125B3BEA"
+					item: { count: 1, id: "minecraft:piston" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0CAB8F0E237D0514"
+					item: { count: 1, id: "immersiveengineering:steel_scaffolding_standard" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "31008F08F38FA8E0"
+					item: { count: 2, id: "immersiveengineering:conveyor_basic" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			id: "495792741F2F4737"
+			tasks: [{
+				count: 8L
+				id: "12BB97E9F8ACAFDD"
+				item: { count: 1, id: "immersiveengineering:conveyor_basic" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			id: "7A27E158423F67FE"
+			tasks: [
+				{
+					id: "1347D1F3299994F2"
+					item: { count: 1, id: "immersiveengineering:mold_plate" }
+					type: "item"
+				}
+				{
+					id: "016A390E0DEABBF4"
+					item: { count: 1, id: "immersiveengineering:mold_gear" }
+					type: "item"
+				}
+				{
+					id: "2CBF2377FEF30FCC"
+					item: { count: 1, id: "immersiveengineering:mold_rod" }
+					type: "item"
+				}
+				{
+					id: "4B977077BC8C6A68"
+					item: { count: 1, id: "immersiveengineering:mold_wire" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "immersiveengineering:blast_furnace"
+			}
+			id: "20FAE8796709CA37"
+			tasks: [{
+				count: 27L
+				id: "4AF94367CA97DB00"
+				item: { count: 27, id: "immersiveengineering:blastbrick" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			id: "7E01DB1590D13ABC"
+			tasks: [{
+				count: 64L
+				id: "216E7D0DF7186C3E"
+				item: { count: 1, id: "immersiveengineering:coal_coke" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			id: "50A560FC86EFF347"
+			tasks: [{
+				count: 64L
+				id: "494BA97622300DE8"
+				item: { count: 1, id: "immersiveengineering:ingot_steel" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "immersiveengineering:advanced_blast_furnace"
+			}
+			id: "47FC46B00EED1EB4"
+			tasks: [
+				{
+					count: 27L
+					id: "067F36AAFDBBCD98"
+					item: { count: 1, id: "immersiveengineering:blastbrick_reinforced" }
+					type: "item"
+				}
+				{
+					id: "48B3E5C6688CC5FB"
+					item: { count: 1, id: "minecraft:hopper" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			id: "1DC5CA4E735C63EF"
+			tasks: [{
+				count: 2L
+				id: "7F7DF2AD34BE1473"
+				item: { count: 2, id: "immersiveengineering:blastfurnace_preheater" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			id: "09BE850643716E25"
+			tasks: [{
+				count: 64L
+				id: "718EF2292A15041F"
+				item: { count: 64, id: "immersiveengineering:plate_iron" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -6.0d
+		}
+		{
+			id: "11D43B2958D94CDC"
+			tasks: [{
+				count: 64L
+				id: "08CB653DB1BF4F80"
+				item: { count: 64, id: "immersiveengineering:sheetmetal_iron" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			id: "4EFD16D96D55AD5D"
+			tasks: [{
+				count: 64L
+				id: "3342085A67B6486E"
+				item: { count: 64, id: "immersiveengineering:fluid_pipe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			icon: {
+				id: "immersiveengineering:windmill"
+			}
+			id: "5A60D5CC075159C2"
+			tasks: [
+				{
+					count: 8L
+					id: "3B5A9897037B6F0E"
+					item: { count: 8, id: "immersiveengineering:windmill_blade" }
+					type: "item"
+				}
+				{
+					id: "1E3CA92F24BC50C1"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -11.0d
+		}
+		{
+			id: "37D258655217598B"
+			tasks: [{
+				id: "365B0AEB329D8711"
+				item: { count: 1, id: "immersiveengineering:dynamo" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -12.0d
+		}
+		{
+			icon: {
+				id: "immersiveengineering:watermill"
+			}
+			id: "7E7A43D9C07C6CCE"
+			tasks: [
+				{
+					count: 4L
+					id: "4E37C1999D877CE1"
+					item: { count: 1, id: "immersiveengineering:waterwheel_segment" }
+					type: "item"
+				}
+				{
+					id: "6281B3BCAE02399D"
+					item: { count: 1, id: "immersiveengineering:ingot_steel" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -11.0d
+		}
+		{
+			id: "0B943BF149100169"
+			tasks: [{
+				count: 8L
+				id: "48397C41C9685B07"
+				item: { count: 8, id: "immersiveengineering:windmill_sail" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -11.0d
+		}
+		{
+			id: "522491A2F20AF2F3"
+			tasks: [{
+				count: 64L
+				id: "1D034DFFDFB17884"
+				item: { count: 1, id: "immersiveengineering:wirecoil_copper" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -13.5d
+		}
+		{
+			id: "2BFB70D1BBDE3D55"
+			tasks: [{
+				count: 64L
+				id: "5977C197CC90F32E"
+				item: { count: 1, id: "immersiveengineering:connector_lv" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -12.5d
+		}
+		{
+			id: "11CA2422DC0C2B97"
+			tasks: [{
+				count: 64L
+				id: "02C82EB3FAEAF4D4"
+				item: { count: 1, id: "immersiveengineering:connector_lv_relay" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -11.5d
+		}
+		{
+			id: "58357613EC07469F"
+			tasks: [{
+				id: "2E10695AC439DC45"
+				item: { count: 1, id: "immersiveengineering:capacitor_lv" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -10.5d
+		}
+		{
+			id: "30169683C906EDF7"
+			tasks: [{
+				count: 64L
+				id: "7B586090183B5B4D"
+				item: { count: 1, id: "immersiveengineering:wirecoil_copper_ins" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -13.5d
+		}
+	]
+}

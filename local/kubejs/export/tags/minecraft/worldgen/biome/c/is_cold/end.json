@@ -1,0 +1,11 @@
+[
+	"#forge:is_cold/end?",
+	"biomesoplenty:end_corruption?",
+	"biomesoplenty:end_reef?",
+	"biomesoplenty:end_wilds?",
+	"minecraft:end_barrens",
+	"minecraft:end_highlands",
+	"minecraft:end_midlands",
+	"minecraft:small_end_islands",
+	"minecraft:the_end"
+]

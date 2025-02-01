@@ -1,0 +1,10 @@
+{
+	"minecraft:biased_to_bottom": "net.minecraft.util.valueproviders.IntProviderType$$Lambda/0x0000019055b96f50",
+	"minecraft:uniform": "net.minecraft.util.valueproviders.IntProviderType$$Lambda/0x0000019055b96f50",
+	"minecraft:weighted_list": "net.minecraft.util.valueproviders.IntProviderType$$Lambda/0x0000019055b96f50",
+	"mekanism:configurable_constant": "mekanism.common.registries.MekanismIntProviderTypes$$Lambda/0x0000019057914b70",
+	"mekanism:configurable_uniform": "mekanism.common.registries.MekanismIntProviderTypes$$Lambda/0x0000019057914d80",
+	"minecraft:clamped": "net.minecraft.util.valueproviders.IntProviderType$$Lambda/0x0000019055b96f50",
+	"minecraft:constant": "net.minecraft.util.valueproviders.IntProviderType$$Lambda/0x0000019055b96f50",
+	"minecraft:clamped_normal": "net.minecraft.util.valueproviders.IntProviderType$$Lambda/0x0000019055b96f50"
+}

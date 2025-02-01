@@ -1,0 +1,50 @@
+/kubejs hand
+/reload
+/reload]
+/reload
+/kubejs hand
+/reload
+/back
+/kubejs hand
+/reload
+/sethome
+/kubejs hand
+/reload
+/probejs dump
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/kubejs reload client_scripts
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/kubejs
+/kubejs hand
+/reload
+/relolad
+/reload
+/back
+/home
+/kubejs hand
+/reload
+/kubejs generate-typings
+/kubejs hotbar
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/reload
+/kubejs hand
+/gamemode creative
+/homne
+/home
+/locate structure minecraft:ancient_city
+/tp @s -528 ~ -1488
+/home
+/locate biome #c:is_badlands
+/home
+/gamemode survival
+/gamemode creative
+/gamemode survival

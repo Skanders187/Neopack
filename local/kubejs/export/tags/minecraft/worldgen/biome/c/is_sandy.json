@@ -1,0 +1,11 @@
+[
+	"#forge:is_sandy?",
+	"biomesoplenty:dryland?",
+	"biomesoplenty:dune_beach?",
+	"biomesoplenty:lush_desert?",
+	"minecraft:badlands",
+	"minecraft:beach",
+	"minecraft:desert",
+	"minecraft:eroded_badlands",
+	"minecraft:wooded_badlands"
+]

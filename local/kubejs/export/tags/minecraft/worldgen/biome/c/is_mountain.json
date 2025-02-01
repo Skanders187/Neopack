@@ -1,0 +1,11 @@
+[
+	"#c:is_mountain/peak",
+	"#c:is_mountain/slope",
+	"#forge:is_mountain?",
+	"#minecraft:is_mountain",
+	"biomesoplenty:crag?",
+	"biomesoplenty:highland?",
+	"biomesoplenty:jade_cliffs?",
+	"biomesoplenty:moor?",
+	"biomesoplenty:volcano?"
+]

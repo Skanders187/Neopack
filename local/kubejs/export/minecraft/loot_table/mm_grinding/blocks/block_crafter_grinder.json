@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "mm_grinding:blocks/block_crafter_grinder",
+	"pools": [
+		{
+			"rolls": 1.0,
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "mm_grinding:block_crafter_grinder"
+				}
+			]
+		}
+	]
+}

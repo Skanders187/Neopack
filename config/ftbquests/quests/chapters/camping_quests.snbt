@@ -1,0 +1,190 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "camping_quests"
+	group: "2EAB687EBB43442C"
+	id: "25F86F913BF7B435"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "78C7EE3F25B8DB45"
+			tasks: [{
+				id: "5F4E815B60DC0C5F"
+				item: { count: 1, id: "minecraft:campfire" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03B9C751EF0D360D"]
+			id: "637CBEFAE227BB0E"
+			tasks: [{
+				count: 64L
+				id: "47297274302F5259"
+				item: { count: 16, id: "minecraft:brick" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -8.0d
+		}
+		{
+			id: "7EA1C0294B3BC57F"
+			tasks: [{
+				count: 16L
+				id: "1C687E0ECDDC6F11"
+				item: { count: 16, id: "simpleadditions:cookedapple" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "1B9C0110F11148DD"
+			tasks: [{
+				count: 32L
+				id: "667385CF12C47766"
+				item: { count: 32, id: "minecraft:torch" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "5F506C52BF1509E9"
+			tasks: [{
+				count: 16L
+				id: "2E054D6233B6966E"
+				item: { count: 16, id: "minecraft:terracotta" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			id: "12A47D2B8B987ACC"
+			tasks: [{
+				count: 16L
+				id: "6B87AB327B50F3F5"
+				item: { count: 16, id: "minecraft:cooked_cod" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "383D87D3EB8E76E7"
+			tasks: [{
+				id: "67196687F59B5DB7"
+				item: { count: 1, id: "minecraft:cooked_porkchop" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			id: "73904EA66831CCFF"
+			tasks: [{
+				id: "5906C03F33C0CD7E"
+				item: { count: 1, id: "minecraft:cooked_mutton" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			id: "3D2EE092C145EAC1"
+			tasks: [{
+				id: "6AB95A70CE965985"
+				item: { count: 1, id: "minecraft:cooked_rabbit" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			id: "7730116F3C82FF73"
+			tasks: [{
+				id: "7BC362FAE7896DC0"
+				item: { count: 1, id: "minecraft:cooked_salmon" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			id: "3DEDFB6A3348F259"
+			tasks: [{
+				id: "0AE3F1F30DFDB42B"
+				item: { count: 1, id: "minecraft:cooked_beef" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -8.5d
+		}
+		{
+			id: "40B87A57C50264B8"
+			tasks: [{
+				id: "07C4B6CC31F3375B"
+				item: { count: 1, id: "minecraft:dried_kelp" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "6B274EFC9C29299A"
+			tasks: [{
+				id: "753746C07B72ADA3"
+				item: { count: 1, id: "minecraft:baked_potato" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -9.5d
+		}
+		{
+			id: "03B9C751EF0D360D"
+			tasks: [{
+				count: 64L
+				id: "339235D1886B1A7E"
+				item: { count: 1, id: "minecraft:clay_ball" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["637CBEFAE227BB0E"]
+			id: "634C9C44B62CA766"
+			tasks: [{
+				count: 32L
+				id: "20BEA3CC41293AF1"
+				item: { count: 9, id: "minecraft:sandstone" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			id: "42654E70C291E773"
+			rewards: [{
+				id: "20DC4EF866378DED"
+				item: {
+					count: 1
+					id: "immersiveengineering:manual"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				count: 27L
+				id: "38064E2A2C0050EF"
+				item: { count: 27, id: "immersiveengineering:cokebrick" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.0d
+		}
+	]
+}

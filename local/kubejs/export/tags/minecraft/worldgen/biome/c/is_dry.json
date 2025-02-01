@@ -1,0 +1,6 @@
+[
+	"#c:is_dry/end",
+	"#c:is_dry/nether",
+	"#c:is_dry/overworld",
+	"#forge:is_dry?"
+]

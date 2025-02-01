@@ -1,0 +1,14 @@
+[
+	"#forge:is_magic?",
+	"#neoforge:is_poison",
+	"#neoforge:is_wither",
+	"ars_nouveau:crush?",
+	"ars_nouveau:flare?",
+	"ars_nouveau:frost?",
+	"ars_nouveau:spell?",
+	"ars_nouveau:windshear?",
+	"minecraft:dragon_breath",
+	"minecraft:indirect_magic",
+	"minecraft:magic",
+	"minecraft:thorns"
+]

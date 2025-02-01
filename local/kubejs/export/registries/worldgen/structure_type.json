@@ -1,0 +1,21 @@
+{
+	"minecraft:ocean_ruin": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:woodland_mansion": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"ae2:ae2mtrt": "appeng.worldgen.meteorite.MeteoriteStructure$$Lambda/0x000001905793c6a8",
+	"ars_nouveau:wilden_den": "com.hollingsworth.arsnouveau.setup.registry.StructureRegistry$$Lambda/0x0000019057937c68",
+	"minecraft:stronghold": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:ocean_monument": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:end_city": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:swamp_hut": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:mineshaft": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:jungle_temple": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:igloo": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"ars_nouveau:wilden_guardian_den": "com.hollingsworth.arsnouveau.setup.registry.StructureRegistry$$Lambda/0x000001905793c000",
+	"minecraft:nether_fossil": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:shipwreck": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:ruined_portal": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:fortress": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:jigsaw": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:buried_treasure": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0",
+	"minecraft:desert_pyramid": "net.minecraft.world.level.levelgen.structure.StructureType$$Lambda/0x0000019055c220d0"
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:block",
+	"random_sequence": "mm_farming:blocks/block_crafter_farm",
+	"pools": [
+		{
+			"rolls": 1.0,
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			],
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "mm_farming:block_crafter_farm"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	chapter.0CBB576CC04AACF6.title: "Overworld"
+	chapter.25F86F913BF7B435.title: "Camping Quests"
+	chapter.389047DECAF107BD.title: "Chapter 1"
+	chapter_group.025519C67FF26B5A.title: "Main Questline"
+	chapter_group.2EAB687EBB43442C.title: "Campfire"
+	chapter_group.35CD5EC7C3875B24.title: "welcome"
+	chapter_group.6553A5E31000D0D3.title: "Immersive"
+	quest.004CAFA49AE00BAB.title: "First tool"
+	quest.03B9C751EF0D360D.quest_desc: ["Collect at least  72 clay balls!"]
+	quest.09BE850643716E25.quest_desc: ["Start pressing these ASAP!"]
+	quest.09BE850643716E25.title: "Iron Plates"
+	quest.0B943BF149100169.quest_desc: ["Right click these onto the middle of the windmill to increase the rotational speed."]
+	quest.0B943BF149100169.title: "Windmill Sails"
+	quest.0E2723786D80E0EB.title: "first power"
+	quest.11CA2422DC0C2B97.quest_desc: ["Connectors to connect multiple machines off one wire or to carry power longer distances."]
+	quest.11CA2422DC0C2B97.title: "LV Wire Relay"
+	quest.11D43B2958D94CDC.quest_desc: ["I might make this 3x more"]
+	quest.11D43B2958D94CDC.title: "Iron Sheetmetal"
+	quest.1B9C0110F11148DD.quest_desc: ["Save your coal with roasting sticks!"]
+	quest.1DC5CA4E735C63EF.quest_desc: ["Crafting these two will speed up your production of Improved Blast Furnace."]
+	quest.1DC5CA4E735C63EF.title: "Blast Furnace Preheater"
+	quest.1EB6FB46BEC423B3.title: "Power Cables"
+	quest.20FAE8796709CA37.quest_desc: ["Steel is the primary resource for your journey through Immersive. Upgrading this to the Improve Blast Furnace will be for the best, only bad thing is.... You need RF."]
+	quest.20FAE8796709CA37.title: "Crude Blast Furnace"
+	quest.2BFB70D1BBDE3D55.quest_desc: ["These connect power generators to RF storage or to machines."]
+	quest.2BFB70D1BBDE3D55.title: "LV Wire Connector"
+	quest.30169683C906EDF7.quest_desc: ["Tired of getting zapped. Craft theses."]
+	quest.30169683C906EDF7.title: "Insulated LV Wire Coil"
+	quest.37D258655217598B.quest_desc: ["Kinetic Dynamo connects to integreated methods of producing shaft power to produce RF by ratio."]
+	quest.47FC46B00EED1EB4.quest_desc: ["Automating the process of steel with a slightly faster smelt time."]
+	quest.47FC46B00EED1EB4.title: "Improved Blast Furnace"
+	quest.495792741F2F4737.quest_desc: ["These belts are useful for multiblock machines but also transfer items from machines, to machines, or in/out of storage inventories."]
+	quest.495792741F2F4737.title: "Convoyer Belts"
+	quest.4EFD16D96D55AD5D.quest_desc: ["These pipes will be needed for certain multiblocks but will also carry liquids from machine to machine or machine to tank."]
+	quest.4EFD16D96D55AD5D.title: "Fluid Pipe"
+	quest.50A560FC86EFF347.title: "Steel Ingot"
+	quest.522491A2F20AF2F3.quest_desc: ["LV Wire is the starting wire of this mod."]
+	quest.522491A2F20AF2F3.title: "LV Wire Coil"
+	quest.52EE7F3A74572601.quest_desc: ["Instead of using your coal for torches try putting a stick on a campfire"]
+	quest.52EE7F3A74572601.quest_subtitle: "Torches made easy"
+	quest.58357613EC07469F.quest_desc: ["Basic RF storage."]
+	quest.5A60D5CC075159C2.quest_desc: ["Windmill will be most likely your first source of power in this pack.  Tip: I would build it atleast 5 blocks tall."]
+	quest.5A60D5CC075159C2.title: "Windmill"
+	quest.5F506C52BF1509E9.quest_desc: ["Dry some clay blocks by the fire."]
+	quest.608A5F00AC8F8D9B.quest_desc: ["Place these in a 3x3 cube and right click with engineer's hammer."]
+	quest.6134A8F9D83301FB.title: "Our First Pick"
+	quest.637CBEFAE227BB0E.quest_desc: ["You can smelt clay balls on an open fire."]
+	quest.672EDEE17C797E15.title: "First resources"
+	quest.6A93CD682E87FCD1.title: "Smelting"
+	quest.714EAE0AA92B9D78.quest_desc: ["Once you get some power up and going and start producing steel, craft the metal press. It is the only way to get Plates, gears, rods or wires in the pack."]
+	quest.714EAE0AA92B9D78.title: "Metal Press"
+	quest.78C7EE3F25B8DB45.quest_desc: ["Campfires are just more then an early game furnance. They now heal you when lit."]
+	quest.7A27E158423F67FE.title: "Press Molds"
+	quest.7E01DB1590D13ABC.quest_desc: ["Coal Coke is the main fuel to create steel in the Blast Furnace."]
+	quest.7E01DB1590D13ABC.title: "Coal Coke"
+	quest.7E7A43D9C07C6CCE.quest_desc: ["Waterwheels are constant method to generate RF but require steel to construct them. Their rotational speed is based off the amount of flowing water around them. "]
+	quest.7E7A43D9C07C6CCE.title: "Water Wheel"
+	quest.7EA1C0294B3BC57F.quest_desc: ["Cooked apples give you mining bonus."]
+}

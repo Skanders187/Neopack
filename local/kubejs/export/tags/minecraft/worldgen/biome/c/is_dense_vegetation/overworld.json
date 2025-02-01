@@ -1,0 +1,19 @@
+[
+	"#forge:is_dense/overworld?",
+	"biomesoplenty:auroral_garden?",
+	"biomesoplenty:coniferous_forest?",
+	"biomesoplenty:jacaranda_glade?",
+	"biomesoplenty:maple_woods?",
+	"biomesoplenty:old_growth_woodland?",
+	"biomesoplenty:overgrown_greens?",
+	"biomesoplenty:rainforest?",
+	"biomesoplenty:redwood_forest?",
+	"biomesoplenty:rocky_rainforest?",
+	"biomesoplenty:snowy_maple_woods?",
+	"minecraft:bamboo_jungle",
+	"minecraft:dark_forest",
+	"minecraft:jungle",
+	"minecraft:mangrove_swamp",
+	"minecraft:old_growth_birch_forest",
+	"minecraft:old_growth_spruce_taiga"
+]

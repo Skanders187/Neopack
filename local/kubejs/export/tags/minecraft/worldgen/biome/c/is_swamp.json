@@ -1,0 +1,12 @@
+[
+	"#forge:is_swamp?",
+	"biomesoplenty:bayou?",
+	"biomesoplenty:bog?",
+	"biomesoplenty:floodplain?",
+	"biomesoplenty:marsh?",
+	"biomesoplenty:moor?",
+	"biomesoplenty:muskeg?",
+	"biomesoplenty:wetland?",
+	"minecraft:mangrove_swamp",
+	"minecraft:swamp"
+]
