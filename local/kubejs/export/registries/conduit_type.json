@@ -1,9 +1,0 @@
-{
-	"enderio:fluid": "com.enderio.conduits.api.ConduitType$Builder$SimpleType",
-	"enderio:energy": "com.enderio.conduits.api.ConduitType$Builder$SimpleType",
-	"enderio:heat": "com.enderio.conduits.api.ConduitType$Builder$SimpleType",
-	"enderio:chemical": "com.enderio.conduits.api.ConduitType$Builder$SimpleType",
-	"enderio:me": "com.enderio.conduits.api.ConduitType$Builder$SimpleType",
-	"enderio:redstone": "com.enderio.conduits.api.ConduitType$Builder$SimpleType",
-	"enderio:item": "com.enderio.conduits.api.ConduitType$Builder$SimpleType"
-}

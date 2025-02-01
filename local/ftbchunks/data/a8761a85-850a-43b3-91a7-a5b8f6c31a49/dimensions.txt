@@ -1,4 +1,0 @@
-minecraft:overworld
-everlands:argost
-pharaohs_legacy__demension:saharah
-the_afterdark:afterdark

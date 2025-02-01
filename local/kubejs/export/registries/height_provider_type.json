@@ -1,9 +1,0 @@
-{
-	"mekanism:configurable": "mekanism.common.registries.MekanismHeightProviderTypes$$Lambda/0x0000019057914f90",
-	"minecraft:weighted_list": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000019055ba5e60",
-	"minecraft:constant": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000019055ba5e60",
-	"minecraft:biased_to_bottom": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000019055ba5e60",
-	"minecraft:very_biased_to_bottom": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000019055ba5e60",
-	"minecraft:trapezoid": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000019055ba5e60",
-	"minecraft:uniform": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda/0x0000019055ba5e60"
-}
